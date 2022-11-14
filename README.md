@@ -12,3 +12,10 @@ background:linear-gradient(to bottom,#24ff72,#9a4eff)
 
 ![Bandeiras](https://user-images.githubusercontent.com/91090285/197051263-39a2c9fc-8627-4549-8ef9-656c95eeeae4.png)
 
+
+<h3>Tecnologias Utilizadas</h3>
+
+- HTML5
+- CSS3
+- JavaScript
+
